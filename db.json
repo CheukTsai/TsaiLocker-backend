@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Jordan 11",
+      "price": "12000",
+      "tags": "92 ",
+      "image": "/images/1.jpg",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Nike Paul George PG 3",
+      "image": "/images/2.jpg",
+      "tags": "25 Colors",
+      "price": "18000",
+      "status": "unavailable"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "image": "/images/3.jpg",
+      "tags": "16 Color, y",
+      "price": "22000",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Foamposite One",
+      "image": "/images/4.jpg",
+      "tags": "84 Colors",
+      "price": "12099",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "adidas Harden Vol.3",
+      "image": "/images/5.jpg",
+      "tags": "34 Colors",
+      "price": "13999",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "19999",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "17999",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Nike KD 12",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "12099",
+      "status": "available"
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "17999",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "18999",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "Nike Kyrie Flytrap",
+      "price": "19999",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Air Jordan 3",
+      "price": "16000",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    }
+  ],
+  "carts": [
+    {
+      "productId": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "image": "/images/3.jpg",
+      "price": "22000",
+      "amount": 4,
+      "userId": "admin@163.com",
+      "id": 1
+    },
+    {
+      "productId": 4,
+      "name": "Nike Air Foamposite One",
+      "image": "/images/4.jpg",
+      "price": "12099",
+      "amount": 9,
+      "userId": "admin@163.com",
+      "id": 2
+    },
+    {
+      "productId": 1,
+      "name": "Air Jordan 11",
+      "image": "/images/1.jpg",
+      "price": "12000",
+      "amount": 3,
+      "userId": "test@abc.com",
+      "id": 3
+    },
+    {
+      "productId": 5,
+      "name": "adidas Harden Vol.3",
+      "image": "/images/5.jpg",
+      "price": "13999",
+      "amount": 1,
+      "userId": "test@abc.com",
+      "id": 4
+    },
+    {
+      "productId": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "price": "19999",
+      "amount": 1,
+      "userId": "test@abc.com",
+      "id": 5
+    },
+    {
+      "productId": 11,
+      "name": "Nike Kyrie Flytrap",
+      "image": "/images/11.jpg",
+      "price": "19999",
+      "amount": 3,
+      "userId": "admin@163.com",
+      "id": 6
+    }
+  ]
+}
